@@ -11,8 +11,8 @@ sys.path.insert(0, os.path.abspath("../Sphinx"))  # Ajouter le chemin de ton mod
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Sphinx'
-copyright = '2024, curtis'
-author = 'curtis'
+copyright = '2024, Curtis, Célia, Hugo'
+author = 'Curtis, Célia, Hugo'
 release = 'pdf'
 
 # -- General configuration ---------------------------------------------------
